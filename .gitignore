@@ -1,1 +1,15 @@
-/target/
+#打包内容
+target
+#idea的开发设置
+.idea
+#eclipse开发的设置
+.settings
+
+*.iml
+
+.class
+
+.project
+
+.classpath
+
